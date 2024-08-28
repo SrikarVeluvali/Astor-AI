@@ -5,7 +5,7 @@ Welcome to the AstorAI website, your gateway to accurate and reliable medical in
 ## Features of the Chatbot
 
 ### Medical Information
-AstorAI provides reliable answers to a wide range of medical questions, leveraging the power of the advanced LLama 3 model and a [custom-trained dataset](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k) .
+AstorAI provides reliable answers to a wide range of medical questions, leveraging the power of the advanced LLama 3 model with a [custom dataset](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k) .
 
 ### Real-Time Responses
 Get immediate, detailed responses to your queries with AstorAI's interactive chatbot, available 24/7 to assist you whenever you need it.

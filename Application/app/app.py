@@ -51,8 +51,8 @@ sessions_collection = db2['sessions']
 # Configure Flask-Mail
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
-app.config['MAIL_USERNAME'] = 'medicalchatbot0@gmail.com'  # replace with your email
-app.config['MAIL_PASSWORD'] = 'gnna ifjq ycje obvz'  # replace with your email password
+app.config['MAIL_USERNAME'] = ''  # replace with your email
+app.config['MAIL_PASSWORD'] = ''  # replace with your email password
 app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 

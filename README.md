@@ -1,4 +1,4 @@
-# AstorAI Website
+# Astor AI
 
 Welcome to the AstorAI website, your gateway to accurate and reliable medical information. Our user-friendly interface, combined with Retrieval-Augmented Generation (RAG) technology, makes it easy for you to navigate and find the answers you need. Engage with AstorAI through our interactive chatbot for real-time, detailed responses to your medical questions. We prioritize your privacy and security, ensuring all interactions and personal information are kept confidential. Explore and discover how AstorAI can assist you on your health journey.
 

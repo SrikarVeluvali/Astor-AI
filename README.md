@@ -22,11 +22,3 @@ AstorAI prioritizes your privacy, ensuring that only you can view your interacti
 
 ### Wide Range of Topics
 From symptoms and treatments to medications and general health advice, AstorAI covers a broad spectrum of medical topics to help you find the information you need.
-
-## Team Description
-- **Srikar Veluvali**
-- **Anpur Phani Charan**
-- **Aka Meher Archana** 
-- **Vardhan Udayagiri** 
-- **Sesha Sai Pratiek Yeggina**
-- **Srikar Narsingoju** 

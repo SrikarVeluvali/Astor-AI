@@ -5,14 +5,16 @@ Large Language Models (LLMs) offer significant potential in the healthcare domai
 
 ## Introduction
 Welcome to the AstorAI website, your gateway to accurate and reliable medical information. Our user-friendly interface, combined with Retrieval-Augmented Generation (RAG) technology, makes it easy for you to navigate and find the answers you need. Engage with AstorAI through our interactive chatbot for real-time, detailed responses to your medical questions. We prioritize your privacy and security, ensuring all interactions and personal information are kept confidential. Explore and discover how AstorAI can assist you on your health journey.
-
+![image](https://github.com/user-attachments/assets/61c9109a-1112-4442-9f4f-37c74277d34d)
 ## Features of the Chatbot
 
 ### Medical Information
 AstorAI provides reliable answers to a wide range of medical questions, leveraging the power of the advanced LLama 3 model with a [custom dataset](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k) .
 
+
 ### Real-Time Responses
 Get immediate, detailed responses to your queries with AstorAI's interactive chatbot, available 24/7 to assist you whenever you need it.
+![Uploading image.png…]()
 
 ### User-Friendly Interface
 Our chatbot is designed with simplicity in mind, offering a clean and intuitive interface that makes it easy to ask questions and receive answers.

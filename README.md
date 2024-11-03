@@ -14,7 +14,7 @@ AstorAI provides reliable answers to a wide range of medical questions, leveragi
 
 ### Real-Time Responses
 Get immediate, detailed responses to your queries with AstorAI's interactive chatbot, available 24/7 to assist you whenever you need it.
-![Uploading image.png…]()
+
 
 ### User-Friendly Interface
 Our chatbot is designed with simplicity in mind, offering a clean and intuitive interface that makes it easy to ask questions and receive answers.

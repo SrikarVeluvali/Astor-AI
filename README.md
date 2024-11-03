@@ -1,6 +1,8 @@
 # Astor AI
-Srikar Veluvali HuggingFace: ![My Huggingface](https://huggingface.co/srikar-v05)
-Huggingface Model: ![Medical LLAMA Model](https://huggingface.co/srikar-v05/llama3-Medical-Chat)
+Srikar Veluvali HuggingFace: [My Huggingface](https://huggingface.co/srikar-v05)
+
+Huggingface Model: [Medical LLAMA Model](https://huggingface.co/srikar-v05/llama3-Medical-Chat)
+
 ## Abstract
 Large Language Models (LLMs) offer significant potential in the healthcare domain, particularly in scenarios where medical professionals may not be readily available. These models can serve as virtual medical assistants, addressing patient queries related to non-critical conditions. A pre-trained LLM, such as Mistral-7B, can be effectively utilized to develop a Medical Chat Doctor, capable of responding to patient inquiries with concise and relevant information. To enhance the accuracy and quality of the chatbot’s responses, fine-tuning the model with domain-specific datasets, such as the "ChatDoctor-HealthCareMagic-100K" from Hugging Face, is essential. This approach ensures that the chatbot can accurately interpret symptoms described by patients and provide appropriate responses, thereby improving patient care and access to medical advice.
 

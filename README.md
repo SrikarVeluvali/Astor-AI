@@ -1,5 +1,4 @@
 # Astor AI
-Srikar Veluvali HuggingFace: [My Huggingface](https://huggingface.co/srikar-v05)
 
 Huggingface Model: [Medical LLAMA Model](https://huggingface.co/srikar-v05/llama3-Medical-Chat)
 
